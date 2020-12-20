@@ -1,6 +1,6 @@
 # Expenses Flutter
 
-> Projeto desenvolvido com Flutter.
+> Projeto desenvolvido com Flutter que demonstra como trabalhar com os widgets.
 
 ## Project
 
