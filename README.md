@@ -1,4 +1,4 @@
-# Expenses Flutter
+# Flutter Expenses
 
 > Projeto desenvolvido com Flutter que demonstra como trabalhar com os widgets.
 
